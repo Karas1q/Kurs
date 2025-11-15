@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>map.html</file>
+    </qresource>
+    <qresource prefix="/icons">
+            <file>yellow.png</file>
+            <file>white.png</file>
+            <file>black.png</file>
+            <file>background.jpg</file>
+     </qresource>
+</RCC>
